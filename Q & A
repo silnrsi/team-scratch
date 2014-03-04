@@ -2,7 +2,7 @@
 
 When I forked team-scratch, it got put under my context rather than silnrsi context. Presumably that is normal. Some questions:
 
-1) Terminology: What is the think I got after I clicked the fork button... is it "a fork" or "a branch"
+1) Terminology: What is the thing I got after I clicked the fork button... is it "a fork" or "a branch"
 
 1) Can I create a different fork (say for some other purpose) and if so what context will it be on? 
 A: I can't create another fork (at least not using the web). I'll guess that I could create as many as I wanted on my local machine by specifying different folders.
