@@ -1,12 +1,9 @@
-#Horizontal Rules
+#Images
 
-Sometimes you need to separate sections with horizontal lines. There are 4 different ways in Markdown to replicate the `<hr />`:
+`![Andika](http://software.sil.org/media/site19/banner_image.jpg "Andika banner image")`
 
-```
-  * * *
-  ***
-  - - -
-  ---
-```
----
-...each on its own line.
+becomes:
+
+`<img src="http://software.sil.org/media/site19/banner_image.jpg" alt="Andika" title="Andika banner image" />`
+
+![Andika](http://software.sil.org/media/site19/banner_image.jpg "Andika banner image")
