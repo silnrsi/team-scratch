@@ -1,55 +1,39 @@
-#CSS Code Coloring in GFM
+#Strikethrough text within a table
 
-```
-```CSS
-.highlight {
-  color: ##900;
-  background-color: #ffc;
-}
+You can create tables by assembling a list of words and dividing them with hyphens - (for the first row), and then separating each column with a pipe |:
 
-#facebox {
-  margin: 0 0 0 0;
-  padding: 6px 3px;
-}
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
 
-span.red {
-  color: red;
-}
-\```
+For aesthetic purposes, you can also add extra pipes on the ends:
 
-\```HTML
-<div id="facebox" class="highlight">
-  <span class="red">
-    Hello World!
-  </span>
-</div>
-\```
-```
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
-*Ignore the backslashes above. They are meant to force the ``` to display rather than render.*
+Note that the dashes at the top don't need to match the length of the header text exactly:
 
-```CSS
-.highlight {
-  color: ##900;
-  background-color: #ffc;
-}
+| Name | Description          |
+| ------------- | ----------- |
+| Help      | Display the help window.|
+| Close     | Closes a window     |
 
-#facebox {
-  margin: 0 0 0 0;
-  padding: 6px 3px;
-}
+You can also include inline Markdown such as links, bold, italics, or strikethrough:
 
-span.red {
-  color: red;
-}
-```
+| Name | Description          |
+| ------------- | ----------- |
+| Help      | ~~Display the~~ help window.|
+| Close     | _Closes_ a window     |
 
-```HTML
-<div id="facebox" class="highlight">
-  <span class="red">
-    Hello World!
-  </span>
-</div>
-```
+Finally, by including colons : within the header row, you can define text to be left-aligned, right-aligned, or center-aligned:
 
-*NOTE that these are examples for displaying color-coding within various programming languages. They do not actually run within this environment.*
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
+
+A colon on the left-most side indicates a left-aligned column; a colon on the right-most side indicates a right-aligned column; a colon on both sides indicates a center-aligned column.
