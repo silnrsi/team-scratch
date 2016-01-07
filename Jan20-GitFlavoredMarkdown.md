@@ -1,15 +1,12 @@
-#Ordered Lists
+#Nested Lists
 
-You can use an asterisk or hyphen, followed by a single blank space, to denote a bulleted list item.
+You can create nested lists by indenting list items by two spaces.
 
-1. Father
-2. Son
-3. Holy Spirit
-
-If you want a sublist, indent list items as needed.
-
-1. LCG Fonts
-  1. Latin
-  2. Cyrillic
-  3. Greek
-2. Roman Fonts
+1. Item 1
+  1. A corollary to the above item.
+  2. Yet another point to consider.
+2. Item 2
+  * A corollary that does not need to be ordered.
+    * This is indented four spaces, because it's two spaces further than the item above.
+    * You might want to consider making a new list.
+3. Item 3
