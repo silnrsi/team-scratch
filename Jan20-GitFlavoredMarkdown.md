@@ -26,6 +26,8 @@ span.red {
 \```
 ```
 
+*Ignore the backslashes. They are meant to force the ``` to display rather than render.*
+
 ```CSS
 .highlight {
   color: ##900;
