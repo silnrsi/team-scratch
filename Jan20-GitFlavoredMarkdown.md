@@ -6,4 +6,4 @@
 
 What if you need both bold and italics? Use the underscore for either one.
 
-**Text preceded and followed by double asterisks ( \*\* ) is bold. _And this bit here is bold italic._**
+**Text preceded and followed by double asterisks ( \*\* ) is bold. _And this bit here, preceded and followed by underscores ( \_ ), is bold italic._**
