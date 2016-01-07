@@ -8,4 +8,4 @@ becomes:
 
 ![Andika](http://software.sil.org/media/site19/banner_image.jpg "Andika banner image")
 
-NOTE that the above is also a link to the actual image on the Andika product site.
+NOTE that the above is also a link to the actual full-size image on the Andika product site.
