@@ -15,7 +15,7 @@
 span.red {
   color: red;
 }
-```
+\```
 
 \```HTML
 <div id="facebox" class="highlight">
