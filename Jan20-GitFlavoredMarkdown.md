@@ -26,7 +26,7 @@ span.red {
 \```
 ```
 
-*Ignore the backslashes. They are meant to force the ``` to display rather than render.*
+*Ignore the backslashes above. They are meant to force the ``` to display rather than render.*
 
 ```CSS
 .highlight {
@@ -51,3 +51,25 @@ span.red {
   </span>
 </div>
 ```
+
+<style type="text/css">
+.highlight {
+  color: ##900;
+  background-color: #ffc;
+}
+
+#facebox {
+  margin: 0 0 0 0;
+  padding: 6px 3px;
+}
+
+span.red {
+  color: red;
+}
+</style>
+
+<div id="facebox" class="highlight">
+  <span class="red">
+    Hello World!
+  </span>
+</div>
