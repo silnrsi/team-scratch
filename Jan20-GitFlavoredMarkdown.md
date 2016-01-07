@@ -1,12 +1,19 @@
-#Styling Text
+#Unordered Lists
 
-*Text preceded and followed by a single asterisk ( * ) is italic.*
+You can use an asterisk or hyphen, followed by a single blank space, to denote a bulleted list item.
 
-**Text preceded and followed by double asterisks ( \*\* ) is bold.**
+* Father
+* Son
+* Holy Spirit
 
-What if you need both bold and italics? Use the underscore for either one.
+- Andika
+- Charis SIL
+- Doulos
+- Gentium
 
-**Text preceded and followed by double asterisks ( \*\* ) is bold. _And this bit here, preceded and followed by underscores ( _ ), is bold italic._**
+If you want a sublist, indent list items as needed.
 
-What if you need to use an asterisk or underscore as regular punctuation (or other special characters used by Markdown)? Precede it with a backslash (\\). Or surround it with blank spaces.
-
+* LCG Fonts
+  - Latin
+  - Cyrillic
+  - Greek
