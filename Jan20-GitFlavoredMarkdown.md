@@ -1,18 +1,5 @@
-#Code Formatting
-##Inline Formats
+#Links
+You can create an inline link by wrapping link text in brackets ( [ ] ), and then wrapping the link URL in parentheses ( ( ) ).
 
-Use single backticks (`) to format text in a special monospace format. Everything within the backticks appear as-is, with no other special formatting.
+For example, to create a hyperlink to www.github.com, with a link text that says, Visit GitHub!, you'd write this in Markdown: [Visit GitHub!](https://www.github.com).
 
-Here's an idea: why don't we take `SuperiorProject` and turn it into `**Reasonable**Project`.
-
-##Multiple Lines
-
-You can use triple backticks (```) to format text as its own distinct block.
-
-Check out this neat program I wrote:
-
-```
-x = 0
-x = 2 + 2
-what is x
-```
