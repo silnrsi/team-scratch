@@ -52,24 +52,4 @@ span.red {
 </div>
 ```
 
-<style type="text/css">
-.highlight {
-  color: ##900;
-  background-color: #ffc;
-}
-
-#facebox {
-  margin: 0 0 0 0;
-  padding: 6px 3px;
-}
-
-span.red {
-  color: red;
-}
-</style>
-
-<div id="facebox" class="highlight">
-  <span class="red">
-    Hello World!
-  </span>
-</div>
+*NOTE that these are examples for displaying color-coding within various programming languages. They do not actually run within this environment.*
