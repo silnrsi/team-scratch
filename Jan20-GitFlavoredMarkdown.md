@@ -1,7 +1,7 @@
 #CSS Code Coloring in GFM
 
 ```
-\```CSS
+```CSS
 .highlight {
   color: ##900;
   background-color: #ffc;
@@ -16,16 +16,15 @@ span.red {
   color: red;
 }
 \```
-```
 
-```HTML
+\```HTML
 <div id="facebox" class="highlight">
   <span class="red">
     Hello World!
   </span>
 </div>
+\```
 ```
-
 
 ```CSS
 .highlight {
