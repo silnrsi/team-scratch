@@ -6,6 +6,8 @@ You can use an asterisk or hyphen, followed by a single blank space, to denote a
 * Son
 * Holy Spirit
 
+
+
 - Andika
 - Charis SIL
 - Doulos
