@@ -15,12 +15,12 @@ NOTE that the above is also a link to the actual full-size image on the Andika p
 Suppose we define the following image IDs:
 
 ```
-[BannerImgCharis]: http://software.sil.org/media/site13/banner_image.jpg "Charis banner image"
+[BannerImgCharis]: http://software.sil.org/media/site14/banner_image.jpg "Charis banner image"
 [BannerImgDoulos]: http://software.sil.org/media/site18/banner_image.jpg "Doulos banner image"
 [BannerImgGentium]: http://software.sil.org/media/site20/banner_image.jpg "Gentium banner image"
 [BannerImgLCG]: http://software.sil.org/media/site15/banner_image.jpg "LCG Fonts banner image"
 ```
-[BannerImgCharis]: http://software.sil.org/media/site13/banner_image.jpg "Charis banner image"
+[BannerImgCharis]: http://software.sil.org/media/site14/banner_image.jpg "Charis banner image"
 [BannerImgDoulos]: http://software.sil.org/media/site18/banner_image.jpg "Doulos banner image"
 [BannerImgGentium]: http://software.sil.org/media/site20/banner_image.jpg "Gentium banner image"
 [BannerImgLCG]: http://software.sil.org/media/site15/banner_image.jpg "LCG Fonts banner image"
