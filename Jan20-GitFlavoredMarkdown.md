@@ -1,5 +1,5 @@
 #Styling Text
 
-*This text will be italic*
+*Text preceded and followed by a single asterisk is italic.*
 
-**This text will be bold**
+**Text preceded and followed by double asterisks is bold.**
