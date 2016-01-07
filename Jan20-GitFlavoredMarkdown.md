@@ -6,7 +6,7 @@ You can use an asterisk or hyphen, followed by a single blank space, to denote a
 * Son
 * Holy Spirit
 
-
+It's recommended that you separate bullet lists with text or some other object in between. Otherwise, Markdown may conflate the two.
 
 - Andika
 - Charis SIL
