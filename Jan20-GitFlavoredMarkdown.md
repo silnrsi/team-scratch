@@ -5,3 +5,5 @@
 #####Heading 5
 ######Heading 6
 #######Heading 7
+
+The last heading example demonstrates that Markdown only recognizes H1 through H6.
