@@ -1,1 +1,1 @@
-http://software.sil.org/sample
+~~strikethrough~~
