@@ -1,4 +1,4 @@
 | Name | Description          |
 | ------------- | ----------- |
-| Help      | Display the help window.|
-| Close     | Closes a window     |
+| Help      | ~~Display the~~ help window.|
+| Close     | _Closes_ a window     |
