@@ -1,5 +1,3 @@
->>>> HEADINGS
-
 # The largest heading (an H1 tag)
 ## The second largest heading (an H2 tag)
 ### The third largest heading (an H3 tag)
