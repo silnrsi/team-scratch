@@ -1,5 +1,1 @@
-```
-x = 0
-    x = 2 + 2
-what is x
-```
+[Sample Product Site](http://software.sil.org/sample/)
