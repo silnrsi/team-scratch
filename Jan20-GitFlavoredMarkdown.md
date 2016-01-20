@@ -1,6 +1,6 @@
 1. Item 1
-  1. A corollary to the above item.
-  2. Yet another point to consider.
+  A. A corollary to the above item.
+  B. Yet another point to consider.
 2. Item 2
   * A corollary that does not need to be ordered.
     * This is indented four spaces, because it's two spaces further than the item above.
