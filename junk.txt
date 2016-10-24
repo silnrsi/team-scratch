@@ -6,3 +6,5 @@ Add a third line
 Add a 3rd line
 LE: changed
 AW: changed again
+JB: My contribution
+BH: test of dvcs/JIRA-QA integration commit
