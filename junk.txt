@@ -9,3 +9,4 @@ AW: changed again
 JB: My contribution
 BH: test of dvcs/JIRA-QA integration commit
 AW: test a change to a forked repo to issue a pull request
+AW: test multiple pull requests (1)
