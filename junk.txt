@@ -15,4 +15,6 @@ AW: test two pull requests in two branches (1)
 AW: test two pull requests in branch and branch of branch (1)
 AW: add a line to test resetting master on GitHub
 JB: try this again.
+JB: Can't get an update from the repo on my VM.
+
 
