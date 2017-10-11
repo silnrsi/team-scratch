@@ -6,6 +6,9 @@
 
 try without headings:
 
+| :--- | :---: | ----:|
 | blah | abcdefghijklmn | $1600 |
 | blahblah | opqrstuvwxy |   $12 |
 | blahblahblah | z   |    $1 |
+
+didn't work with no heading line and no colon line
